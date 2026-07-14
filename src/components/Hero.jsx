@@ -28,7 +28,7 @@ Hi, I'm Mustafa
 
 <h2 className="text-2xl mt-5 text-blue-400">
 
-Software Engineering Student
+Software Engineer
 
 </h2>
 
