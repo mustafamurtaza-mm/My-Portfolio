@@ -9,16 +9,7 @@ const skills=[
 "SQL Server",
 "Git/GitHub",
 "REST APIs",
-"Python",
-"NumPy",
-"Pandas",
-"Scikit-learn",
-"Matplotlib",
-"Seaborn",
-"Gradio",
-"Java",
-"Dart",
-"Flutter"
+"Python"
 ];
 
 
