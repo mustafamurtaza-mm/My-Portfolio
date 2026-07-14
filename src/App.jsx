@@ -20,9 +20,9 @@ return(
 
 <Skills/>
 
-<Services/>
-
 <Projects/>
+
+<Services/>
 
 <Contact/>
 
