@@ -31,9 +31,8 @@ I am a Software Engineering student and MERN Stack Developer passionate about bu
 - Authentication
 - CRUD Operations
 
-### Sports Billing System
-- C#
-- Database Integration
+### Predictive Health Analysis System
+- Python
 
 ## 📂 Installation
 
