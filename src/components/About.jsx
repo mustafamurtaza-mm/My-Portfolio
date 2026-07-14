@@ -12,7 +12,7 @@ About Me
 
 <p className="text-gray-400 leading-7 text-sm md:text-base">
 
-I am a Software Engineering student with hands-on experience
+I am a Software Engineer with hands-on experience
 in web development. I have worked on MERN stack applications
 and desktop applications using C# and .NET.
 
