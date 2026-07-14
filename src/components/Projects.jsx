@@ -27,31 +27,31 @@ function Projects(){
 
 return(
 
-<section id="projects" className="py-20 max-w-5xl mx-auto px-5">
+<section id="projects" className="py-16 md:py-20 max-w-5xl mx-auto px-4 md:px-5">
 
 
-<h2 className="text-4xl font-bold mb-8">
+<h2 className="text-3xl md:text-4xl font-bold mb-8">
 Projects
 </h2>
 
 
 
-<div className="grid md:grid-cols-3 gap-6">
+<div className="grid md:grid-cols-3 gap-4 md:gap-6">
 
 
 {
 projects.map(project=>(
 
-<div className="bg-gray-900 p-6 rounded-xl">
+<div className="bg-gray-900 p-4 md:p-6 rounded-xl">
 
-<h3 className="text-xl font-bold">
+<h3 className="text-lg md:text-xl font-bold">
 
 {project.title}
 
 </h3>
 
 
-<p className="text-gray-400 mt-3">
+<p className="text-gray-400 mt-3 text-sm md:text-base">
 
 {project.desc}
 

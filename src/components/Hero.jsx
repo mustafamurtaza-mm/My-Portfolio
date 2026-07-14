@@ -44,13 +44,13 @@ problem solving and learning new technologies.
 
 
 
-<div className="mt-8">
+<div className="mt-8 flex flex-col sm:flex-row gap-4">
 
 <a
 
 href="#projects"
 
-className="bg-blue-600 px-6 py-3 rounded-lg hover:bg-blue-700"
+className="bg-blue-600 px-6 py-3 md:px-8 md:py-4 rounded-lg hover:bg-blue-700 text-center"
 
 >
 
@@ -61,7 +61,7 @@ View My Work
 <a
 href="/Mustafa_Murtaza_SoftwareEngineering_CV.pdf"
 download
-className="ml-4 border border-blue-500 px-6 py-3 rounded-lg"
+className="border border-blue-500 px-6 py-3 md:px-8 md:py-4 rounded-lg text-center"
 >
 Download Resume
 </a>
