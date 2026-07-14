@@ -1,16 +1,43 @@
-# React + Vite
+# Mustafa Murtaza - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive developer portfolio built using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://my-portfolio-delta-ten-yxtc062lst.vercel.app/
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am a Software Engineering student and MERN Stack Developer passionate about building scalable web applications and learning modern technologies.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- Tailwind CSS
+- Framer Motion
+- React Icons
+- Vite
+
+## 📌 Featured Projects
+
+### MediTrack Hospital Management System
+- C# Windows Forms
+- SQL Server
+- MVC Architecture
+
+### DriftTask
+- MERN Stack
+- Authentication
+- CRUD Operations
+
+### Sports Billing System
+- C#
+- Database Integration
+
+## 📂 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/mustafamurtaza-mm/My-Portfolio.git
